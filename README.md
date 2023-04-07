@@ -1,10 +1,10 @@
 # WAD Project
 Name:  <br>
-Module Group: 
- 
+Module Group: <br>
+<br> 
 ## Project Title
-Please give a meaningful name for your application. 
- 
+Please give a meaningful name for your application. <br>
+<br> 
 ## Background
 Why do you want to build this web application? 
  
