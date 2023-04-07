@@ -1,5 +1,5 @@
 # WAD Project
-Name: 
+Name:  
 Module Group: 
  
 ## Project Title
